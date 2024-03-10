@@ -1,0 +1,26 @@
+
+Alternated:
+
+ AB  - Alternated Burst
+ AC  - Alternated Continuous
+ DAB - Diagonal Alternated Burst
+ DAC - Diagonal Alternated Continuous
+
+
+Electromotor:
+
+ EM   - Electromotor
+ DEM  - Diagonal Electromotor
+ AA45 - All around (45º)
+
+
+Other:
+
+ AA - All Around
+ M  - Manual
+ N  - Noise
+
+
+Note: PWM - Pulse Width Modulation (by software)
+
+
