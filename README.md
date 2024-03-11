@@ -7,5 +7,6 @@ present document we explain the physical concepts behind the behavior of the mag
 
 Keywords: magnetic tweezers, magnetic microparticles, superparamagnetism, helmholtz coil, digital electronic control, computerized control, cell manipulation, rheology. 
 
-LabView 8.5
-LabView 10
+LabView 8.5, LabView 10
+
+2010
